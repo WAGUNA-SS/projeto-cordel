@@ -81,7 +81,7 @@ section.imagem {
 section.imagem > p {
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.500);
-    width: 380px;
+    width: 380px; /* width anterior eraa 400px*/
     
     padding: 5px;
     text-shadow: 1px 1px 0px black;
