@@ -18,7 +18,7 @@
 html, body {
     background-color: azure;
     min-height: 80vh;
-    
+    margin: 0px;
     font-family: var(--fonte1);
 }
 
