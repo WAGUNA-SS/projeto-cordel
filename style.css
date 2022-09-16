@@ -25,6 +25,7 @@ html, body {
 body {
     width: 100%;
     max-width: 100vw;
+    padding-right: 0px;
 }
 
 header {
