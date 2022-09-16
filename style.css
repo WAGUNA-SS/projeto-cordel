@@ -18,8 +18,12 @@
 html, body {
     background-color: azure;
     min-height: 100vh;
-    min-width: 94vh;
+    
     font-family: var(--fonte1);
+}
+
+body {
+    min-width: 80vh;
 }
 
 header {
