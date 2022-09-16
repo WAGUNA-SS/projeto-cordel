@@ -23,7 +23,8 @@ html, body {
 }
 
 body {
-    min-width: 80vh;
+    width: 100%;
+    max-width: 100vw;
 }
 
 header {
@@ -60,7 +61,7 @@ section {
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: clamp(1.4em,3.5vw,3em);
+    font-size: clamp(1.2em,3.5vw,3em);
 }
 
 section > p {
